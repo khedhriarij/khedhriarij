@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **arij.khedhrie@gmail.com**
 
-- ⚡ Fun fact **i think i'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
