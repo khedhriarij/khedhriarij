@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **scrum,cloud**
 
-- 👯 I’m looking to collaborate on **pfe project**
+-  I’m looking to collaborate on **pfe project**
 
 - 💬 Ask me about **springboot**
 
